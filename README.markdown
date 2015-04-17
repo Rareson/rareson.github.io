@@ -23,3 +23,4 @@ This site is heavily inspired and borrows some of the plugins and designs from:
 * [Damien du Toit](http://coda.co.za/) 
 * [Bilal Syed Hussain](http://bilalh.github.io/)
 * [ActionBarSherlock](http://actionbarsherlock.com)
+* [madhur](https://github.com/madhur/madhur.github.com/tree/source)
