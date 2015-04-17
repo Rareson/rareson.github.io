@@ -3,9 +3,9 @@ title: Rareson's blog
 email: g1114128525@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my English blog site. Hope I can write something useful here!
-  Source available at [Gtihub](https://github.com/Rareson/rareson.github.io)
+  Source available at https://github.com/Rareson/rareson.github.io
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://github.com/Rareson/rareson.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username: Rareson 
 
